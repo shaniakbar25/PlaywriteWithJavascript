@@ -10,13 +10,16 @@ This repository contains comprehensive End-to-End (E2E) Playwright tutorials cov
 
 ****Project Setup****
 **1. Clone the Repository**
+
 git clone https://github.com/PlaywriteWithJavascript.git
 cd your-repo-name
 
 **2. Install Dependencies**
+
 npm install
 
 **3. Run Tests**
+
 npx playwright test
 
 ****Folder Structure****
