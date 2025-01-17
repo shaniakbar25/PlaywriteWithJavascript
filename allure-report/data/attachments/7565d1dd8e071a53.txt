@@ -1,0 +1,25 @@
+LoginPage Practise | Rahul Shetty Academy
+Incorrect username/password.
+https://rahulshettyacademy.com/angularpractice/shop
+https://rahulshettyacademy.com/angularpractice/shop 200
+https://rahulshettyacademy.com/angularpractice/styles.3476315b83ee14da2595.bundle.css
+https://rahulshettyacademy.com/angularpractice/inline.318b50c57b4eba3d437b.bundle.js
+https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js
+https://rahulshettyacademy.com/angularpractice/scripts.6cc4e781f0791d60b349.bundle.js
+https://rahulshettyacademy.com/angularpractice/main.f104fca0d24a938832a3.bundle.js
+https://rahulshettyacademy.com/angularpractice/styles.3476315b83ee14da2595.bundle.css 200
+https://rahulshettyacademy.com/angularpractice/inline.318b50c57b4eba3d437b.bundle.js 200
+https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js 200
+https://rahulshettyacademy.com/angularpractice/scripts.6cc4e781f0791d60b349.bundle.js 200
+https://rahulshettyacademy.com/angularpractice/main.f104fca0d24a938832a3.bundle.js 200
+https://placehold.co/900x350
+https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg
+https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg
+https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg
+https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg
+https://rahulshettyacademy.com/angularpractice/Material-Design-Iconic-Font.a4d31128b633bc0b1cc1.woff2?v=2.2.0
+iphone X
+https://rahulshettyacademy.com/angularpractice/Material-Design-Iconic-Font.a4d31128b633bc0b1cc1.woff2?v=2.2.0 200
+Nokia Edge
+[ 'iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry' ]
+https://placehold.co/900x350 200

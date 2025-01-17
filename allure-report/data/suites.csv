@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10787","Page Playwrite test","webkit","Thu Nov 07 16:08:58 PKT 2024","passed","Thu Nov 07 16:09:09 PKT 2024","","UIBasicsTest.spec.js","",""
+"","11746","Page Playwrite test","firefox","Thu Nov 07 16:08:58 PKT 2024","passed","Thu Nov 07 16:09:10 PKT 2024","","UIBasicsTest.spec.js","",""
+"","10038","Page Playwrite test","chromium","Thu Nov 07 16:08:58 PKT 2024","passed","Thu Nov 07 16:09:08 PKT 2024","","UIBasicsTest.spec.js","",""
